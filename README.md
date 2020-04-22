@@ -37,6 +37,8 @@ npm start
 
 Les commentaires apparaissent sous forme d'objets `json`
 
-[*] Référence: <https://developers.facebook.com/docs/graph-api/reference/user/picture/?locale=fr_FR>
-[*] Référence: <https://developers.facebook.com/docs/graph-api/server-sent-events/endpoints/live-comments/?locale=fr_FR>
+## Ressources
+
+* <https://developers.facebook.com/docs/graph-api/reference/user/picture/?locale=fr_FR>
+* <https://developers.facebook.com/docs/graph-api/server-sent-events/endpoints/live-comments/?locale=fr_FR>
 

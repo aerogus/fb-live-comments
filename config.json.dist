@@ -3,13 +3,11 @@
   // obligatoire
   "FB_APP_ID": "",
   "FB_APP_SECRET": "",
-
   // à récupérer dans https://developers.facebook.com/tools/accesstoken , app fb-live-comments
   // optionnel !
   "FB_USER_ACCESS_TOKEN": "",
-
   // video_id issu de l'url de type https://www.facebook.com/page_id/videos/video_id
   // obligatoire
-  "VIDEO_ID": ""
+  "FB_VIDEO_ID": ""
 }
 

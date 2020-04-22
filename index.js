@@ -17,7 +17,7 @@ const config = JSON.parse(configFile);
 
 if (config.FB_USER_ACCESS_TOKEN) {
   console.log('via user access token');
-  startReading(config.VIDEO_ID, config.FB_USER_ACCESS_TOKEN);
+  startReading(config.FB_VIDEO_ID, config.FB_USER_ACCESS_TOKEN);
 } else {
   console.log('via app access token');
   // url pour récupérer l'app access token
@@ -27,7 +27,7 @@ if (config.FB_USER_ACCESS_TOKEN) {
     if (err) {
       console.log('Error:', err);
     } else {
-      startReading(config.VIDEO_ID, data.access_token);
+      startReading(config.FB_VIDEO_ID, data.access_token);
     }
   });
 }

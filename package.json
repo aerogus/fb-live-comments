@@ -1,0 +1,17 @@
+{
+  "name": "fb-live-comments",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "dependencies": {
+    "eventsource": "1.0.7",
+    "request-json": "0.6.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

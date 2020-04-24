@@ -27,7 +27,7 @@ saisissez les paramètres obligatoires suivants:
 * `FB_APP_SECRET`
 * `FB_VIDEO_ID`
 
-Le paramètre optionnel `FB_USER_ACCESS_TOKEN` peut être obtenu à cette adresse :
+Le paramètre optionnel `FB_USER_ACCESS_TOKEN` peut être obtenu à cette adresse : `https://developers.facebook.com/tools/accesstoken`
 
 Puis lancez le tout :
 
